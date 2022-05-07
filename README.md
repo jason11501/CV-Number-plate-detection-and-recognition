@@ -2,6 +2,7 @@
  ## Install environments
 **Công cụ (Tool):**<br>
 * Jupyter Notebook
+* Google Colab
 
 **Ngôn ngữ (Language):**<br>
 * Python
