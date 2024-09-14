@@ -1,4 +1,5 @@
 # Phát hiện và nhận dạng biển số (Number plate detection and recognition)
+# Tiến độ 60%
  ## Install environments
 **Công cụ (Tool):**<br>
 * Jupyter Notebook
