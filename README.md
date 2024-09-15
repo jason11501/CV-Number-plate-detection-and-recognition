@@ -2,8 +2,7 @@
 # Tiến độ 60%
  ## Install environments
 **Công cụ (Tool):**<br>
-* Jupyter Notebook
-* Google Colab
+* Jupyter Notebook or Google Colab
 
 **Ngôn ngữ (Language):**<br>
 * Python
