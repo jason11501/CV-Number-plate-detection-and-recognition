@@ -7,3 +7,6 @@
 
 **Ngôn ngữ (Language):**<br>
 * Python
+
+## real-time
+https://github.com/Hung-3008/LPDR
