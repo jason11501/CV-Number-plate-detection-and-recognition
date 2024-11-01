@@ -7,3 +7,4 @@ scikit-learn
 anvil-uplink
 matplotlib
 keras
+opencv-python
