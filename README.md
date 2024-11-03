@@ -45,3 +45,7 @@ run image in a container named abcxyz
 ```
 docker run --name abcxyz jason/number_plate
 ```
+## Result
+<p align="center" >
+   <img src="result.png" ><br>
+</p>
