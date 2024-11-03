@@ -1,6 +1,7 @@
 # Phát hiện và nhận dạng biển số (Number plate detection and recognition)
 # Deploy web
 Các file deployment
+
 /static
 
 /templates
