@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Image Upload and Display</title>
+</head>
+<body>
+    <h1>Upload and Display Image</h1>
+    <form method="post" enctype="multipart/form-data">
+        <input type="file" name="file">
+        <input type="submit" value="Upload">
+    </form>
+    {% if image_path %}
+        <h2>Processed Image:</h2>
+        <img src="{{ url_for('static', filename=image_path) }}" alt="Processed Image">
+    {% endif %}
+</body>
+</html>
