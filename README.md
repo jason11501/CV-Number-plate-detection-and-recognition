@@ -9,3 +9,9 @@
 
 ## real-time
 https://github.com/Hung-3008/LPDR
+
+
+## deploy
+/static
+/templates
+/my_api
