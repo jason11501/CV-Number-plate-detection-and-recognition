@@ -5,7 +5,7 @@
 * Jupyter Notebook or Google Colab
 
 **Ngôn ngữ (Language):**<br>
-* Python
+* Python 3.12.5
 
 ## real-time
 https://github.com/Hung-3008/LPDR
