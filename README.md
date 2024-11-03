@@ -18,6 +18,7 @@ Các bạn có thể clone repo này về. Open VSCode, run my_api.py :
 cd CV-Number-plate-detection-and-recognition
 /usr/local/bin/python3.12 /Users/c/Downloads/CV-Number-plate-detection-and-recognition/source/yolov3/License-Plate-Recognition-master-4/my_api.py
 ```
+Các file deployment
 /static
 
 /templates
@@ -29,6 +30,10 @@ cd CV-Number-plate-detection-and-recognition
 Trước khi dùng cmd bất kì cmd docker nào, run:
 ```
 export PATH="$PATH:/Applications/Docker.app/Contents/Resources/bin/"
+```
+Login Docker with jasoncaption as username
+```
+docker login -u jasoncaption
 ```
 
 build image named jason/number_plate
