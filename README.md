@@ -28,7 +28,7 @@ Trước khi dùng cmd bất kì cmd docker nào, run:
 export PATH="$PATH:/Applications/Docker.app/Contents/Resources/bin/"
 ```
 
-build image
+build image named jason/number_plate
 ```
 docker build -f /Users/c/Downloads/CV-Number-plate-detection-and-recognition/source/Dockerfile -t jason/number_plate .
 ```
