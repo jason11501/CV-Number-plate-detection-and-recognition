@@ -3,6 +3,7 @@
  ## Install environments
 **Công cụ (Tool):**<br>
 * Jupyter Notebook or Google Colab
+* Visual Studio Code (chạy main.py và my_api.py)
 
 **Ngôn ngữ (Language):**<br>
 * Python 3.12.5
