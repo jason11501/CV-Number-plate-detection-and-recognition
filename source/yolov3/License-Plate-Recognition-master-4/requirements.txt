@@ -4,7 +4,9 @@ tensorflow
 imutils
 scikit-image
 scikit-learn
-anvil-uplink
 matplotlib
 keras
-opencv-python
+flask
+flask-cors
+opencv-python-headless
+anvil-uplink
