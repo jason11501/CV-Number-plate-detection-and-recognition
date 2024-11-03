@@ -5,8 +5,6 @@ import time
 
 from src.lp_recognition import E2E
 
-
-
 def get_arguments():
     arg = argparse.ArgumentParser()
     arg.add_argument('-i', '--image_path', help='link to image', default='./samples/1.jpg')
@@ -38,6 +36,4 @@ print('Model process on %.2f s' % (end - start))
 cv2.imshow('License Plate', image)
 if cv2.waitKey(0) & 0xFF == ord('q'):
     exit(0)
-
-
 cv2.destroyAllWindows()
