@@ -10,7 +10,7 @@ Các file deployment
 
 /requirement txt
 
-# Tiến độ 60%
+# Tiến độ 60% (khi chưa deploy, cải tiến)
 ## Install environments
 **Công cụ (Tool):**<br>
 * Jupyter Notebook or Google Colab (train)
