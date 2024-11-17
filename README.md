@@ -37,7 +37,7 @@ cd CV-Number-plate-detection-and-recognition
 /usr/local/bin/python3.12 /Users/c/Downloads/CV-Number-plate-detection-and-recognition/source/yolov3/License-Plate-Recognition-master-4/my_api.py
 ```
 Cách 2:
-Trước khi dùng cmd bất kì cmd docker nào, run:
+Trước khi dùng bất kì cmd nào trong docker nào, hãy run cmd dưới đây trước:
 ```
 export PATH="$PATH:/Applications/Docker.app/Contents/Resources/bin/"
 ```
