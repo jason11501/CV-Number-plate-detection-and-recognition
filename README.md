@@ -1,5 +1,5 @@
 # Phát hiện và nhận dạng biển số (Number plate detection and recognition)
-# Deploy web
+# Deploy web với YOLO v3
 Các file deployment
 
 /static
@@ -9,8 +9,13 @@ Các file deployment
 /my_api
 
 /requirement txt
+# YOLO v3
+Tiến độ : 60% (khi chưa deploy)
+Độ chính xác: Sai/ thiếu 1 kí tự. (Cần dùng /darknet/backup để train tiếp với last weight khi Colab disconnect, tránh train từ đầu epoch 0. )
 
-# Tiến độ 60% (khi chưa deploy, cải tiến)
+# YOLO v4 
+Độ chính xác : 0%
+
 ## Install environments
 **Công cụ (Tool):**<br>
 * Jupyter Notebook or Google Colab (train)
